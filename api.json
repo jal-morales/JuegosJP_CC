@@ -1,0 +1,13 @@
+[
+    {
+        "precio": "25.500",
+        "id": "1",
+        "titulo": "Cartas" 
+    },
+    {
+        "precio": "22.700",
+        "id": "2",
+        "titulo": "Ajedrez"
+    }
+       
+    ]

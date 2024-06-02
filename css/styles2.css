@@ -1,0 +1,28 @@
+
+.card img {
+    max-width: 200px;
+    height: 200px;
+    display: block;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    width: 100%;
+}
+.row{
+    padding: 10px;
+}
+
+
+
+.checked {
+    color: orange;
+}
+.rating {
+    display: flex;
+    flex-direction: row;
+    justify-content: cente
+}
+.rating .fa-star {
+    margin-right: 5px;
+}
+
